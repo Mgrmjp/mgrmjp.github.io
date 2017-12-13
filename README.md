@@ -1,6 +1,18 @@
 ### Web-visualisointi repo | K2038 Miikka Mäkelä
 
-<br> <br> <br>
+`Harkkatyö:` <a href="simplymgr.com">simplymgr.com</a>
+
+## Kurssiharkat
+
+<a href="mgrmjp.github.io/vko39">VKO 39 RESPONSIIVISUUS</a>
+
+<a href="mgrmjp.github.io/vko40">VKO 40 FLEX></a>
+
+<a href="mgrmjp.github.io/vko41">VKO 41 BOOTSTRAP VAKIO</a>
+
+<a href="mgrmjp.github.io/vko41/bs-teema">VKO 41 BS TEEMAN LAITTAMINEN</a>
+
+<a href="mgrmjp.github.io/vko44">VKO 44 ANIMAATIO</a>
 
 # CSS-kirjasto-FW-harkka
 *Bootstrap, Google Fonts, FontAwesome, Animate.css ja Balloon.css.*  
