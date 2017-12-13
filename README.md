@@ -4,17 +4,17 @@
 
 ## Kurssiharkat
 
-<a href="mgrmjp.github.io/vko39">VKO 39 RESPONSIIVISUUS</a>
+<a href="https://www.mgrmjp.github.io/vko39">VKO 39 RESPONSIIVISUUS</a>
 
-<a href="mgrmjp.github.io/vko40">VKO 40 FLEX</a>
+<a href="https://www.mgrmjp.github.io/vko40">VKO 40 FLEX</a>
 
-<a href="mgrmjp.github.io/vko41">VKO 41 BOOTSTRAP VAKIO</a>
+<a href="https://www.mgrmjp.github.io/vko41">VKO 41 BOOTSTRAP VAKIO</a>
 
-<a href="mgrmjp.github.io/vko41/bs-teema">VKO 41 BS TEEMAN LAITTAMINEN</a>
+<a href="https://www.mgrmjp.github.io/vko41/bs-teema">VKO 41 BS TEEMAN LAITTAMINEN</a>
 
-<a href="mgrmjp.github.io/vko44/nappulaa.html">VKO 44 NAPPULAT</a>
+<a href="https://www.mgrmjp.github.io/vko44/nappulaa.html">VKO 44 NAPPULAT</a>
 
-<a href="mgrmjp.github.io/vko44/keyframes.html">VKO 44 PALKKIANIMAATIO</a>
+<a href="https://www.mgrmjp.github.io/vko44/keyframes.html">VKO 44 PALKKIANIMAATIO</a>
 
 # CSS-kirjasto-FW-harkka
 *Bootstrap, Google Fonts, FontAwesome, Animate.css ja Balloon.css.*  
