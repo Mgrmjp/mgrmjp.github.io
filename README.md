@@ -1,6 +1,6 @@
 ### Web-visualisointi repo | K2038 Miikka Mäkelä
 
-`Harkkatyö:` <a href="simplymgr.com">simplymgr.com</a>
+`Harkkatyö:` https://www.simplymgr.com
 
 ## Kurssiharkat
 
